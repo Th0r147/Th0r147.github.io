@@ -1,5 +1,5 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
+Package: (com.Th0r147.IconSupport)
+Name: IconSupport
 Version: (Version Number)
 Size: (Size in Bytes)
 Architecture: iphoneos-arm
@@ -10,5 +10,5 @@ Section: (Cydia Section)
 MD5sum:
 SHA1sum:
 SHA256sum:
-Filename: debs//(Tweak Name).deb
+Filename: debs//IconSupport.deb
 
